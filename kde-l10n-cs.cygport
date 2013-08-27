@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kde-l10n-cs"
+VERSION=4.8.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Czech translation files"
+DESCRIPTION="KDE Czech translation files"
